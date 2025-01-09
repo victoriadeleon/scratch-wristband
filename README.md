@@ -13,6 +13,4 @@ This project can be clearly defined in four sections:
 
 4. App Development
 
-
-
-![image](https://github.com/user-attachments/assets/1e971297-8aca-4d64-884a-96f4f891c35b)
+![image](https://github.com/user-attachments/assets/c004416c-9262-4a2b-a296-18570cefe2b0)
