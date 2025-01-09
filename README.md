@@ -1,4 +1,4 @@
-### Multimodal Wristband for Real-Time Scratch Detection in Patients with Chronic Itch
+## Multimodal Wristband for Real-Time Scratch Detection in Patients with Chronic Itch
 
 ### Summary
 Eczema, or atopic dermatitis, is a chronic inflammatory skin condition characterized by pruritus (itch), which triggers a compulsive urge to scratch. This scratching leads to skin damage, inflammation, and increased infection risk. Current methods for patient assessment, primarily visual inspection and self-reporting, are hindered by subjectivity and limited specificity, failing to accurately quantify the frequency, intensity, and duration of itching episodes.
